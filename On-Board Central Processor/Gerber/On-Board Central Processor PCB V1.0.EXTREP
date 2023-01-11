@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: On-Board Central Processor PCB V1.0.GBR   11/01/2023  15:31:01
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM15               Board Outline                           
+.GKO                Keep-Out Layer                          
+------------------------------------------------------------------------------------------

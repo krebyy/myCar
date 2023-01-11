@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: On-Board Central Processor PCB V1.0.PcbDoc   11/01/2023  15:31:12
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : On-Board Central Processor PCB V1.0.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             202       PTH        31.94inch (811.31mm)
+T2      13mil (0.33mm)                                            Round             6         PTH        0.26inch (6.50mm)
+T3      32mil (0.8mm)                                             Round             2         PTH        0.30inch (7.60mm)
+T4      39mil (1.001mm)                                           Round             4         PTH        2.31inch (58.56mm)
+T5      51mil (1.3mm)                                             Round             5         PTH        4.52inch (114.83mm)
+T6      71mil (1.801mm)                                           Round             16        PTH        2.91inch (74.00mm)
+T7      126mil (3.2mm)                                            Round             2         PTH        1.85inch (47.00mm)
+T8      35mil (0.899mm)                                           Round             2         NPTH       0.17inch (4.40mm)
+T9      118mil (3mm)                                              Round             2         NPTH       1.16inch (29.40mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              241
+
+Total Processing Time (hh:mm:ss) : 00:00:00

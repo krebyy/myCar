@@ -1,0 +1,112 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Kleber\Documents\AltiumDesigner\On-Board Central Processor\On-Board Central Processor\Layout\On-Board Central Processor PCB V1.0.PcbDoc
+Date     : 11/01/2023
+Time     : 15:05:01
+
+Processing Rule : Clearance Constraint (Gap=0.153mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.153mm) (Max=5mm) (Preferred=0.4mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=0.3mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.6mm) (MaxWidth=0.6mm) (PreferedWidth=0.6mm) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.154mm) (Max=0.154mm) (Prefered=0.154mm)  and Width Constraints (Min=0.5mm) (Max=0.5mm) (Prefered=0.5mm) (InDifferentialPairClass('diff90'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.32mm) (Max=0.32mm) (Prefered=0.32mm)  and Width Constraints (Min=0.4mm) (Max=0.4mm) (Prefered=0.4mm) (InDifferentialPairClass('diff120'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.254mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.381mm) (Max=0.381mm) (Prefered=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Fabrication Testpoint Style (Under Component=Yes) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Fabrication Testpoint Usage (Valid =One Required, Allow multiple per net=No) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Assembly Testpoint Style (Under Component=Yes) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Assembly Testpoint Usage (Valid =One Required, Allow multiple per net=No) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.2mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.05mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1.27mm) (InDifferentialPairClass('diff90'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1.27mm) (InDifferentialPairClass('diff120'))
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.254mm, Vertical Gap = 0.254mm ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Clearance Constraint (Gap=0.153mm) (All),(All)
+   Waived Violation between Clearance Constraint: (Collision < 0.33mm) Between Area Fill (1.9mm,73.7mm) (2.8mm,79.1mm) on Top Layer And Pad ANT1-GND(2.35mm,73.95mm) on Multi-Layer Waived by Krebyy Krebyy at 10/01/2023 16:32:12
+   Waived Violation between Clearance Constraint: (Collision < 0.153mm) Between Area Fill (1.9mm,73.7mm) (2.8mm,79.1mm) on Top Layer And Track (2.35mm,72.084mm)(2.35mm,73.95mm) on Top Layer Waived by Krebyy Krebyy at 10/01/2023 16:33:03
+Waived Violations :2
+
+Waived Violations Of Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Waived Violation between Short-Circuit Constraint: Between Area Fill (1.9mm,73.7mm) (2.8mm,79.1mm) on Top Layer And Pad ANT1-GND(2.35mm,73.95mm) on Multi-Layer Location : [X = 2.35mm][Y = 73.95mm]Waived by Krebyy Krebyy at 10/01/2023 16:33:03
+   Waived Violation between Short-Circuit Constraint: Between Area Fill (1.9mm,73.7mm) (2.8mm,79.1mm) on Top Layer And Track (2.35mm,72.084mm)(2.35mm,73.95mm) on Top Layer Location : [X = 2.35mm][Y = 74.051mm]Waived by Krebyy Krebyy at 10/01/2023 16:33:03
+Waived Violations :2
+
+Waived Violations Of Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (27.6mm,-4.1mm)(27.6mm,8.7mm) on Top Overlay Waived by Krebyy Krebyy at 11/01/2023 15:04:33
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (27.6mm,-4.1mm)(62.4mm,-4.1mm) on Top Overlay Waived by Krebyy Krebyy at 11/01/2023 15:04:33
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (62.4mm,-4.1mm)(62.4mm,8.7mm) on Top Overlay Waived by Krebyy Krebyy at 11/01/2023 15:04:33
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (67mm,73.3mm)(67mm,79.99mm) on Top Overlay Waived by Krebyy Krebyy at 11/01/2023 15:04:33
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (67mm,79.99mm)(85mm,79.99mm) on Top Overlay Waived by Krebyy Krebyy at 11/01/2023 15:04:33
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (77.15mm,-1.4mm)(77.15mm,0.25mm) on Top Overlay Waived by Krebyy Krebyy at 11/01/2023 15:04:33
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (77.15mm,-1.4mm)(84.85mm,-1.4mm) on Top Overlay Waived by Krebyy Krebyy at 11/01/2023 15:04:33
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (84.85mm,-1.4mm)(84.85mm,0.25mm) on Top Overlay Waived by Krebyy Krebyy at 11/01/2023 15:04:33
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (85mm,73.3mm)(85mm,79.99mm) on Top Overlay Waived by Krebyy Krebyy at 11/01/2023 15:04:33
+Waived Violations :9
+
+
+Violations Detected : 0
+Waived Violations : 13
+Time Elapsed        : 00:00:16
